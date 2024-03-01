@@ -18,6 +18,11 @@ namespace PRELIM_E3_Assignment_SalazarGabrielAngelo_BSIT32E1.Controllers
             return View();
         }
 
+        public IActionResult School()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
